@@ -1,0 +1,22 @@
+Aditya Gupta
+Data Scientist
+
+PROFESSIONAL SUMMARY
+Results-oriented data scientist who enjoys turning complex requirements into clear, maintainable solutions.
+
+CORE SKILLS
+nlp, statistics, pandas, sql, excel
+
+PROJECT EXPERIENCE
+Model deployment prototype
+- Built and evaluated a data scientist solution using nlp and statistics.
+- Worked with a small team to document requirements, test outcomes, and improve usability.
+- Presented findings and implementation notes to technical and non-technical stakeholders.
+
+WORK EXPERIENCE
+1 years of combined project and professional experience as a data scientist.
+- Developed repeatable processes and reusable components for technical assignments.
+- Used nlp, statistics, pandas to support reporting, analysis, and delivery activities.
+
+EDUCATION
+B.Tech in Computer Science, IIT Kharagpur

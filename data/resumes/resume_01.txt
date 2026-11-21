@@ -1,0 +1,22 @@
+Isha Mukherjee
+DevOps Engineer
+
+PROFESSIONAL SUMMARY
+DevOps Engineer with 4 years of practical experience delivering dependable, data-focused solutions.
+
+CORE SKILLS
+python, linux, ci/cd, terraform, kubernetes, docker, git, aws
+
+PROJECT EXPERIENCE
+Internal workflow automation
+- Built and evaluated a devops engineer solution using python and linux.
+- Worked with a small team to document requirements, test outcomes, and improve usability.
+- Presented findings and implementation notes to technical and non-technical stakeholders.
+
+WORK EXPERIENCE
+4 years of combined project and professional experience as a devops engineer.
+- Developed repeatable processes and reusable components for technical assignments.
+- Used python, linux, ci/cd to support reporting, analysis, and delivery activities.
+
+EDUCATION
+B.Tech in Computer Science, VIT Vellore

@@ -1,0 +1,22 @@
+Meera Singh
+Data Scientist
+
+PROFESSIONAL SUMMARY
+Data Scientist with a track record of collaborating across teams and improving technical workflows.
+
+CORE SKILLS
+matplotlib, statistics, deep learning, nlp, sql, scikit-learn, pandas, python, machine learning, excel
+
+PROJECT EXPERIENCE
+Internal workflow automation
+- Built and evaluated a data scientist solution using matplotlib and statistics.
+- Worked with a small team to document requirements, test outcomes, and improve usability.
+- Presented findings and implementation notes to technical and non-technical stakeholders.
+
+WORK EXPERIENCE
+1 years of combined project and professional experience as a data scientist.
+- Developed repeatable processes and reusable components for technical assignments.
+- Used matplotlib, statistics, deep learning to support reporting, analysis, and delivery activities.
+
+EDUCATION
+B.E. in Information Technology, IIT Kharagpur

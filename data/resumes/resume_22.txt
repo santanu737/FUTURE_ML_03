@@ -1,0 +1,22 @@
+Amit Banerjee
+Data Analyst
+
+PROFESSIONAL SUMMARY
+Data Analyst with a track record of collaborating across teams and improving technical workflows.
+
+CORE SKILLS
+excel, data visualization, statistics, tableau
+
+PROJECT EXPERIENCE
+Operational analytics dashboard
+- Built and evaluated a data analyst solution using excel and data visualization.
+- Worked with a small team to document requirements, test outcomes, and improve usability.
+- Presented findings and implementation notes to technical and non-technical stakeholders.
+
+WORK EXPERIENCE
+2 years of combined project and professional experience as a data analyst.
+- Developed repeatable processes and reusable components for technical assignments.
+- Used excel, data visualization, statistics to support reporting, analysis, and delivery activities.
+
+EDUCATION
+B.Sc. in Computer Science, VIT Vellore

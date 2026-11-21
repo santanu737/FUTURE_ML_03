@@ -1,0 +1,22 @@
+Vikram Patel
+Data Scientist
+
+PROFESSIONAL SUMMARY
+Data Scientist with 1 years of practical experience delivering dependable, data-focused solutions.
+
+CORE SKILLS
+scikit-learn, deep learning, sql, pandas, matplotlib, statistics, python, nlp, machine learning
+
+PROJECT EXPERIENCE
+Automated reporting pipeline
+- Built and evaluated a data scientist solution using scikit-learn and deep learning.
+- Worked with a small team to document requirements, test outcomes, and improve usability.
+- Presented findings and implementation notes to technical and non-technical stakeholders.
+
+WORK EXPERIENCE
+1 years of combined project and professional experience as a data scientist.
+- Developed repeatable processes and reusable components for technical assignments.
+- Used scikit-learn, deep learning, sql to support reporting, analysis, and delivery activities.
+
+EDUCATION
+B.E. in Information Technology, Jadavpur University

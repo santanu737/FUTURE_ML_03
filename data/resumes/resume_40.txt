@@ -1,0 +1,22 @@
+Isha Singh
+DevOps Engineer
+
+PROFESSIONAL SUMMARY
+DevOps Engineer with 5 years of practical experience delivering dependable, data-focused solutions.
+
+CORE SKILLS
+ci/cd, python, linux, git, aws, kubernetes, terraform, sql
+
+PROJECT EXPERIENCE
+Operational analytics dashboard
+- Built and evaluated a devops engineer solution using ci/cd and python.
+- Worked with a small team to document requirements, test outcomes, and improve usability.
+- Presented findings and implementation notes to technical and non-technical stakeholders.
+
+WORK EXPERIENCE
+5 years of combined project and professional experience as a devops engineer.
+- Developed repeatable processes and reusable components for technical assignments.
+- Used ci/cd, python, linux to support reporting, analysis, and delivery activities.
+
+EDUCATION
+B.E. in Information Technology, VIT Vellore

@@ -1,0 +1,22 @@
+Rahul Mukherjee
+DevOps Engineer
+
+PROFESSIONAL SUMMARY
+DevOps Engineer with 0 years of practical experience delivering dependable, data-focused solutions.
+
+CORE SKILLS
+terraform, kubernetes, git, python, linux, excel
+
+PROJECT EXPERIENCE
+Model deployment prototype
+- Built and evaluated a devops engineer solution using terraform and kubernetes.
+- Worked with a small team to document requirements, test outcomes, and improve usability.
+- Presented findings and implementation notes to technical and non-technical stakeholders.
+
+WORK EXPERIENCE
+0 years of combined project and professional experience as a devops engineer.
+- Developed repeatable processes and reusable components for technical assignments.
+- Used terraform, kubernetes, git to support reporting, analysis, and delivery activities.
+
+EDUCATION
+M.Sc. in Data Science, NIT Durgapur

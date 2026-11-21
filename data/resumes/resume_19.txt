@@ -1,0 +1,22 @@
+Meera Mukherjee
+Data Scientist
+
+PROFESSIONAL SUMMARY
+Data Scientist with 2 years of practical experience delivering dependable, data-focused solutions.
+
+CORE SKILLS
+machine learning, sql, scikit-learn, statistics
+
+PROJECT EXPERIENCE
+Operational analytics dashboard
+- Built and evaluated a data scientist solution using machine learning and sql.
+- Worked with a small team to document requirements, test outcomes, and improve usability.
+- Presented findings and implementation notes to technical and non-technical stakeholders.
+
+WORK EXPERIENCE
+2 years of combined project and professional experience as a data scientist.
+- Developed repeatable processes and reusable components for technical assignments.
+- Used machine learning, sql, scikit-learn to support reporting, analysis, and delivery activities.
+
+EDUCATION
+M.Sc. in Data Science, Adamas University

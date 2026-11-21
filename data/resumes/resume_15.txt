@@ -1,0 +1,22 @@
+Priya Gupta
+DevOps Engineer
+
+PROFESSIONAL SUMMARY
+Curious and adaptable devops engineer experienced in building projects from prototype through deployment.
+
+CORE SKILLS
+kubernetes, ci/cd, git, docker, aws, linux, terraform, python
+
+PROJECT EXPERIENCE
+Customer insights platform
+- Built and evaluated a devops engineer solution using kubernetes and ci/cd.
+- Worked with a small team to document requirements, test outcomes, and improve usability.
+- Presented findings and implementation notes to technical and non-technical stakeholders.
+
+WORK EXPERIENCE
+1 years of combined project and professional experience as a devops engineer.
+- Developed repeatable processes and reusable components for technical assignments.
+- Used kubernetes, ci/cd, git to support reporting, analysis, and delivery activities.
+
+EDUCATION
+B.Tech in Computer Science, NIT Durgapur

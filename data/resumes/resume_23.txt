@@ -1,0 +1,22 @@
+Vikram Das
+Machine Learning Engineer
+
+PROFESSIONAL SUMMARY
+Curious and adaptable machine learning engineer experienced in building projects from prototype through deployment.
+
+CORE SKILLS
+deep learning, tensorflow, sql, pytorch, docker, css
+
+PROJECT EXPERIENCE
+Operational analytics dashboard
+- Built and evaluated a machine learning engineer solution using deep learning and tensorflow.
+- Worked with a small team to document requirements, test outcomes, and improve usability.
+- Presented findings and implementation notes to technical and non-technical stakeholders.
+
+WORK EXPERIENCE
+0 years of combined project and professional experience as a machine learning engineer.
+- Developed repeatable processes and reusable components for technical assignments.
+- Used deep learning, tensorflow, sql to support reporting, analysis, and delivery activities.
+
+EDUCATION
+B.E. in Information Technology, VIT Vellore

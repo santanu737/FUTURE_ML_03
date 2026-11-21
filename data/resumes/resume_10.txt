@@ -1,0 +1,22 @@
+Vikram Sharma
+DevOps Engineer
+
+PROFESSIONAL SUMMARY
+DevOps Engineer with 1 years of practical experience delivering dependable, data-focused solutions.
+
+CORE SKILLS
+python, aws, ci/cd, kubernetes, docker, linux, git, terraform
+
+PROJECT EXPERIENCE
+Customer insights platform
+- Built and evaluated a devops engineer solution using python and aws.
+- Worked with a small team to document requirements, test outcomes, and improve usability.
+- Presented findings and implementation notes to technical and non-technical stakeholders.
+
+WORK EXPERIENCE
+1 years of combined project and professional experience as a devops engineer.
+- Developed repeatable processes and reusable components for technical assignments.
+- Used python, aws, ci/cd to support reporting, analysis, and delivery activities.
+
+EDUCATION
+M.Sc. in Data Science, IIT Kharagpur

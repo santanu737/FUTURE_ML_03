@@ -1,0 +1,22 @@
+Meera Das
+Data Analyst
+
+PROFESSIONAL SUMMARY
+Data Analyst with 1 years of practical experience delivering dependable, data-focused solutions.
+
+CORE SKILLS
+pandas, sql, power bi, data visualization, statistics, excel
+
+PROJECT EXPERIENCE
+Operational analytics dashboard
+- Built and evaluated a data analyst solution using pandas and sql.
+- Worked with a small team to document requirements, test outcomes, and improve usability.
+- Presented findings and implementation notes to technical and non-technical stakeholders.
+
+WORK EXPERIENCE
+1 years of combined project and professional experience as a data analyst.
+- Developed repeatable processes and reusable components for technical assignments.
+- Used pandas, sql, power bi to support reporting, analysis, and delivery activities.
+
+EDUCATION
+M.Sc. in Data Science, IIT Kharagpur

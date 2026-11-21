@@ -1,0 +1,22 @@
+Priya Sharma
+Data Scientist
+
+PROFESSIONAL SUMMARY
+Data Scientist with a track record of collaborating across teams and improving technical workflows.
+
+CORE SKILLS
+sql, nlp, pandas, python, scikit-learn
+
+PROJECT EXPERIENCE
+Automated reporting pipeline
+- Built and evaluated a data scientist solution using sql and nlp.
+- Worked with a small team to document requirements, test outcomes, and improve usability.
+- Presented findings and implementation notes to technical and non-technical stakeholders.
+
+WORK EXPERIENCE
+0 years of combined project and professional experience as a data scientist.
+- Developed repeatable processes and reusable components for technical assignments.
+- Used sql, nlp, pandas to support reporting, analysis, and delivery activities.
+
+EDUCATION
+M.Sc. in Data Science, NIT Durgapur

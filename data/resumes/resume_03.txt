@@ -1,0 +1,22 @@
+Rohan Singh
+Data Analyst
+
+PROFESSIONAL SUMMARY
+Data Analyst with a track record of collaborating across teams and improving technical workflows.
+
+CORE SKILLS
+tableau, pandas, power bi, data visualization, sql, statistics, python, excel
+
+PROJECT EXPERIENCE
+Automated reporting pipeline
+- Built and evaluated a data analyst solution using tableau and pandas.
+- Worked with a small team to document requirements, test outcomes, and improve usability.
+- Presented findings and implementation notes to technical and non-technical stakeholders.
+
+WORK EXPERIENCE
+5 years of combined project and professional experience as a data analyst.
+- Developed repeatable processes and reusable components for technical assignments.
+- Used tableau, pandas, power bi to support reporting, analysis, and delivery activities.
+
+EDUCATION
+B.Sc. in Computer Science, Adamas University

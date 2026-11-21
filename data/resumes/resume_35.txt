@@ -1,0 +1,22 @@
+Amit Banerjee
+Data Scientist
+
+PROFESSIONAL SUMMARY
+Curious and adaptable data scientist experienced in building projects from prototype through deployment.
+
+CORE SKILLS
+pandas, deep learning, python, matplotlib, statistics, scikit-learn
+
+PROJECT EXPERIENCE
+Automated reporting pipeline
+- Built and evaluated a data scientist solution using pandas and deep learning.
+- Worked with a small team to document requirements, test outcomes, and improve usability.
+- Presented findings and implementation notes to technical and non-technical stakeholders.
+
+WORK EXPERIENCE
+2 years of combined project and professional experience as a data scientist.
+- Developed repeatable processes and reusable components for technical assignments.
+- Used pandas, deep learning, python to support reporting, analysis, and delivery activities.
+
+EDUCATION
+M.Sc. in Data Science, Jadavpur University

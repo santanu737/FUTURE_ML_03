@@ -1,0 +1,22 @@
+Pooja Reddy
+Data Scientist
+
+PROFESSIONAL SUMMARY
+Results-oriented data scientist who enjoys turning complex requirements into clear, maintainable solutions.
+
+CORE SKILLS
+deep learning, pandas, matplotlib, statistics, html, excel
+
+PROJECT EXPERIENCE
+Internal workflow automation
+- Built and evaluated a data scientist solution using deep learning and pandas.
+- Worked with a small team to document requirements, test outcomes, and improve usability.
+- Presented findings and implementation notes to technical and non-technical stakeholders.
+
+WORK EXPERIENCE
+3 years of combined project and professional experience as a data scientist.
+- Developed repeatable processes and reusable components for technical assignments.
+- Used deep learning, pandas, matplotlib to support reporting, analysis, and delivery activities.
+
+EDUCATION
+B.E. in Information Technology, Anna University

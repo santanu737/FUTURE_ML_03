@@ -1,0 +1,22 @@
+Rohan Das
+DevOps Engineer
+
+PROFESSIONAL SUMMARY
+Results-oriented devops engineer who enjoys turning complex requirements into clear, maintainable solutions.
+
+CORE SKILLS
+kubernetes, docker, python, terraform, linux, ci/cd, git, aws, html
+
+PROJECT EXPERIENCE
+Internal workflow automation
+- Built and evaluated a devops engineer solution using kubernetes and docker.
+- Worked with a small team to document requirements, test outcomes, and improve usability.
+- Presented findings and implementation notes to technical and non-technical stakeholders.
+
+WORK EXPERIENCE
+0 years of combined project and professional experience as a devops engineer.
+- Developed repeatable processes and reusable components for technical assignments.
+- Used kubernetes, docker, python to support reporting, analysis, and delivery activities.
+
+EDUCATION
+B.E. in Information Technology, Adamas University

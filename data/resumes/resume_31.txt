@@ -1,0 +1,22 @@
+Aarav Das
+Machine Learning Engineer
+
+PROFESSIONAL SUMMARY
+Results-oriented machine learning engineer who enjoys turning complex requirements into clear, maintainable solutions.
+
+CORE SKILLS
+pytorch, machine learning, docker, sql, numpy, tensorflow, git
+
+PROJECT EXPERIENCE
+Internal workflow automation
+- Built and evaluated a machine learning engineer solution using pytorch and machine learning.
+- Worked with a small team to document requirements, test outcomes, and improve usability.
+- Presented findings and implementation notes to technical and non-technical stakeholders.
+
+WORK EXPERIENCE
+3 years of combined project and professional experience as a machine learning engineer.
+- Developed repeatable processes and reusable components for technical assignments.
+- Used pytorch, machine learning, docker to support reporting, analysis, and delivery activities.
+
+EDUCATION
+B.Sc. in Computer Science, NIT Durgapur

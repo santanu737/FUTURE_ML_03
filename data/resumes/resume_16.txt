@@ -1,0 +1,22 @@
+Aditya Singh
+Web Developer
+
+PROFESSIONAL SUMMARY
+Results-oriented web developer who enjoys turning complex requirements into clear, maintainable solutions.
+
+CORE SKILLS
+react, node.js, css, javascript, rest api, statistics
+
+PROJECT EXPERIENCE
+Model deployment prototype
+- Built and evaluated a web developer solution using react and node.js.
+- Worked with a small team to document requirements, test outcomes, and improve usability.
+- Presented findings and implementation notes to technical and non-technical stakeholders.
+
+WORK EXPERIENCE
+2 years of combined project and professional experience as a web developer.
+- Developed repeatable processes and reusable components for technical assignments.
+- Used react, node.js, css to support reporting, analysis, and delivery activities.
+
+EDUCATION
+B.E. in Information Technology, Jadavpur University

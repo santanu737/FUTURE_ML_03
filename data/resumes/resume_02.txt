@@ -1,0 +1,22 @@
+Soham Sharma
+DevOps Engineer
+
+PROFESSIONAL SUMMARY
+Curious and adaptable devops engineer experienced in building projects from prototype through deployment.
+
+CORE SKILLS
+aws, ci/cd, docker, git, terraform, linux, python
+
+PROJECT EXPERIENCE
+Customer insights platform
+- Built and evaluated a devops engineer solution using aws and ci/cd.
+- Worked with a small team to document requirements, test outcomes, and improve usability.
+- Presented findings and implementation notes to technical and non-technical stakeholders.
+
+WORK EXPERIENCE
+1 years of combined project and professional experience as a devops engineer.
+- Developed repeatable processes and reusable components for technical assignments.
+- Used aws, ci/cd, docker to support reporting, analysis, and delivery activities.
+
+EDUCATION
+M.Sc. in Data Science, VIT Vellore

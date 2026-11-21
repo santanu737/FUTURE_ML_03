@@ -1,0 +1,22 @@
+Aarav Nair
+Data Analyst
+
+PROFESSIONAL SUMMARY
+Data Analyst with a track record of collaborating across teams and improving technical workflows.
+
+CORE SKILLS
+statistics, pandas, tableau, excel, css
+
+PROJECT EXPERIENCE
+Model deployment prototype
+- Built and evaluated a data analyst solution using statistics and pandas.
+- Worked with a small team to document requirements, test outcomes, and improve usability.
+- Presented findings and implementation notes to technical and non-technical stakeholders.
+
+WORK EXPERIENCE
+1 years of combined project and professional experience as a data analyst.
+- Developed repeatable processes and reusable components for technical assignments.
+- Used statistics, pandas, tableau to support reporting, analysis, and delivery activities.
+
+EDUCATION
+B.Sc. in Computer Science, Anna University

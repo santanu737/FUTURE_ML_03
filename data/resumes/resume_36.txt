@@ -1,0 +1,22 @@
+Soham Sharma
+Data Analyst
+
+PROFESSIONAL SUMMARY
+Results-oriented data analyst who enjoys turning complex requirements into clear, maintainable solutions.
+
+CORE SKILLS
+pandas, power bi, tableau, sql
+
+PROJECT EXPERIENCE
+Customer insights platform
+- Built and evaluated a data analyst solution using pandas and power bi.
+- Worked with a small team to document requirements, test outcomes, and improve usability.
+- Presented findings and implementation notes to technical and non-technical stakeholders.
+
+WORK EXPERIENCE
+2 years of combined project and professional experience as a data analyst.
+- Developed repeatable processes and reusable components for technical assignments.
+- Used pandas, power bi, tableau to support reporting, analysis, and delivery activities.
+
+EDUCATION
+B.Sc. in Computer Science, NIT Durgapur

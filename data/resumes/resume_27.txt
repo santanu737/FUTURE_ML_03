@@ -1,0 +1,22 @@
+Pooja Chatterjee
+Data Analyst
+
+PROFESSIONAL SUMMARY
+Data Analyst with 1 years of practical experience delivering dependable, data-focused solutions.
+
+CORE SKILLS
+data visualization, excel, power bi, tableau, python, pandas, statistics
+
+PROJECT EXPERIENCE
+Customer insights platform
+- Built and evaluated a data analyst solution using data visualization and excel.
+- Worked with a small team to document requirements, test outcomes, and improve usability.
+- Presented findings and implementation notes to technical and non-technical stakeholders.
+
+WORK EXPERIENCE
+1 years of combined project and professional experience as a data analyst.
+- Developed repeatable processes and reusable components for technical assignments.
+- Used data visualization, excel, power bi to support reporting, analysis, and delivery activities.
+
+EDUCATION
+B.E. in Information Technology, Anna University

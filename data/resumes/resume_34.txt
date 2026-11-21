@@ -1,0 +1,22 @@
+Aarav Banerjee
+Data Analyst
+
+PROFESSIONAL SUMMARY
+Data Analyst with 5 years of practical experience delivering dependable, data-focused solutions.
+
+CORE SKILLS
+data visualization, power bi, pandas, statistics, tableau, sql, python
+
+PROJECT EXPERIENCE
+Model deployment prototype
+- Built and evaluated a data analyst solution using data visualization and power bi.
+- Worked with a small team to document requirements, test outcomes, and improve usability.
+- Presented findings and implementation notes to technical and non-technical stakeholders.
+
+WORK EXPERIENCE
+5 years of combined project and professional experience as a data analyst.
+- Developed repeatable processes and reusable components for technical assignments.
+- Used data visualization, power bi, pandas to support reporting, analysis, and delivery activities.
+
+EDUCATION
+B.E. in Information Technology, VIT Vellore

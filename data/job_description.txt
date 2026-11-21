@@ -1,0 +1,12 @@
+Job Title: Machine Learning Engineer
+
+About the role
+We are looking for a Machine Learning Engineer to build and deploy models that solve real business problems.
+
+Required Skills:
+Python, machine learning, scikit-learn, pandas, numpy, SQL, git, deep learning
+
+Nice to have:
+TensorFlow, PyTorch, Docker, AWS, NLP
+
+Experience: 2+ years preferred

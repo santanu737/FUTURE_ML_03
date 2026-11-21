@@ -1,0 +1,22 @@
+Aarav Singh
+Data Analyst
+
+PROFESSIONAL SUMMARY
+Data Analyst with a track record of collaborating across teams and improving technical workflows.
+
+CORE SKILLS
+tableau, data visualization, python, excel, pandas, statistics, power bi, sql, html
+
+PROJECT EXPERIENCE
+Operational analytics dashboard
+- Built and evaluated a data analyst solution using tableau and data visualization.
+- Worked with a small team to document requirements, test outcomes, and improve usability.
+- Presented findings and implementation notes to technical and non-technical stakeholders.
+
+WORK EXPERIENCE
+1 years of combined project and professional experience as a data analyst.
+- Developed repeatable processes and reusable components for technical assignments.
+- Used tableau, data visualization, python to support reporting, analysis, and delivery activities.
+
+EDUCATION
+B.E. in Information Technology, Jadavpur University

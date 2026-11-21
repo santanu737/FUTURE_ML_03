@@ -1,0 +1,22 @@
+Rahul Singh
+Data Analyst
+
+PROFESSIONAL SUMMARY
+Data Analyst with a track record of collaborating across teams and improving technical workflows.
+
+CORE SKILLS
+data visualization, tableau, python, sql, excel, power bi
+
+PROJECT EXPERIENCE
+Customer insights platform
+- Built and evaluated a data analyst solution using data visualization and tableau.
+- Worked with a small team to document requirements, test outcomes, and improve usability.
+- Presented findings and implementation notes to technical and non-technical stakeholders.
+
+WORK EXPERIENCE
+0 years of combined project and professional experience as a data analyst.
+- Developed repeatable processes and reusable components for technical assignments.
+- Used data visualization, tableau, python to support reporting, analysis, and delivery activities.
+
+EDUCATION
+M.Sc. in Data Science, VIT Vellore
